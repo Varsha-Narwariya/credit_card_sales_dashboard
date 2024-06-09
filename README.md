@@ -1,6 +1,8 @@
 # credit_card_sales_dashboard
 credit card company's dashboard
+
 power bi dashboard
+
 project objective: the credit card customer report and credit card transaction report dashboards offer a comprehensive view of various metrics and insights derived from sales and customer data. The objective of creating such dashboards is multifaceted, aiming to enhance business decision-making, operational efficiency, and customer understanding. 
 
 data set: financial dataset
